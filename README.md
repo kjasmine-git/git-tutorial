@@ -1,3 +1,3 @@
 # git-tutorial
 <br>
-author-jasmine
+author-jasmine kaur
